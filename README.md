@@ -17,7 +17,7 @@ Quess, Github, and Future Ready Talent Internship programme.
      
      - Reviewing various types of games (like:Actions,cars,wrestling,bikes bicycle).This will assist all professional gamers in selecting games based on their preferences, and thus my website will alleviate the gamers' confusion.
      
- # Primary-Azure-Technology :
+ # Primary-Azure-Technology used :
        *Static-Web-Apps.
        *web.
  # Technology-used :
