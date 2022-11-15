@@ -24,4 +24,7 @@ Quess, Github, and Future Ready Talent Internship programme.
      -CSS.
      -HTML.
      -javascript.
+ #SOME PICS OF MY PROJECT:
+ ![2022-11-15](https://user-images.githubusercontent.com/85445851/201934360-d0acbb9f-f312-47e8-9b6e-3bb1c3ec1347.png)
+ 
        
