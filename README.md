@@ -33,6 +33,14 @@ Quess, Github, and Future Ready Talent Internship programme.
  
 ![2022-11-15 (2)](https://user-images.githubusercontent.com/85445851/201935782-fbfb9f72-6e9a-4918-bd3f-c2c206d64471.png)
 
+![2022-11-15 (3)](https://user-images.githubusercontent.com/85445851/201936018-baaefa1f-4fe4-44e7-b78d-d549bef5b249.png)
+
+![2022-11-15 (4)](https://user-images.githubusercontent.com/85445851/201936160-9dcc1c43-f75f-4de3-ac54-75ce3d3d4bf2.png)
+
+![2022-11-15 (5)](https://user-images.githubusercontent.com/85445851/201936259-9bb1aff4-ed7b-49a1-9c01-65bcd0d088aa.png)
+
+![2022-11-15 (6)](https://user-images.githubusercontent.com/85445851/201936350-0477c670-0b7b-488d-b409-61fd74b3fa55.png)
+
 
  
        
